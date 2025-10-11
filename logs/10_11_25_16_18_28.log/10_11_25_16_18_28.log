@@ -1,0 +1,20 @@
+[2025-10-11 16:18:31,312] 16 root - INFO - initiate the data ingestion
+[2025-10-11 16:18:33,187] 57 root - INFO - performed train test split
+[2025-10-11 16:18:33,187] 58 root - INFO - exited split data as train tes method of data ingestion class
+[2025-10-11 16:18:33,188] 61 root - INFO - exporting train and test file path
+[2025-10-11 16:18:33,255] 69 root - INFO - exported train and test file path
+[2025-10-11 16:18:33,256] 18 root - INFO - data initiation completed
+[2025-10-11 16:18:33,261] 22 root - INFO - initiate daata validation
+[2025-10-11 16:18:33,323] 32 root - INFO - requireed numb of columns:31
+[2025-10-11 16:18:33,323] 33 root - INFO - data frame has coloumns:31
+[2025-10-11 16:18:33,323] 32 root - INFO - requireed numb of columns:31
+[2025-10-11 16:18:33,323] 33 root - INFO - data frame has coloumns:31
+[2025-10-11 16:18:33,481] 24 root - INFO - data validation compeleted
+[2025-10-11 16:18:33,481] 28 root - INFO - data transformation started
+[2025-10-11 16:18:33,481] 52 root - INFO - entered initiaate transforamation method class
+[2025-10-11 16:18:33,481] 55 root - INFO - data transformation started
+[2025-10-11 16:18:33,542] 40 root - INFO - entered get data transformer object method of transformation class
+[2025-10-11 16:18:33,542] 43 root - INFO - initailiose with  parameter
+[2025-10-11 16:18:33,556] 43 root - INFO - Entered the save_object method of main_utils class
+[2025-10-11 16:18:33,558] 47 root - INFO - Exited the save_object method of main_utils class
+[2025-10-11 16:18:33,560] 32 root - INFO - dat transmission srtarted
