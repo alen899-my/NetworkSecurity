@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/alenpro/NetworkSecurity/mlruns/0/636b418d84404d3db9eda21fee3e25f5/artifacts
+end_time: 1760405757008
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 636b418d84404d3db9eda21fee3e25f5
+run_name: fun-swan-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760405752634
+status: 3
+tags: []
+user_id: ADMIN

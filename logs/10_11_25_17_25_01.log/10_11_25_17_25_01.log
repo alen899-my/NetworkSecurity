@@ -1,0 +1,28 @@
+[2025-10-11 17:25:05,416] 16 root - INFO - initiate the data ingestion
+[2025-10-11 17:25:09,402] 57 root - INFO - performed train test split
+[2025-10-11 17:25:09,402] 58 root - INFO - exited split data as train tes method of data ingestion class
+[2025-10-11 17:25:09,403] 61 root - INFO - exporting train and test file path
+[2025-10-11 17:25:09,478] 69 root - INFO - exported train and test file path
+[2025-10-11 17:25:09,478] 18 root - INFO - data initiation completed
+[2025-10-11 17:25:09,484] 22 root - INFO - initiate daata validation
+[2025-10-11 17:25:09,562] 32 root - INFO - requireed numb of columns:31
+[2025-10-11 17:25:09,562] 33 root - INFO - data frame has coloumns:31
+[2025-10-11 17:25:09,562] 32 root - INFO - requireed numb of columns:31
+[2025-10-11 17:25:09,562] 33 root - INFO - data frame has coloumns:31
+[2025-10-11 17:25:09,747] 24 root - INFO - data validation compeleted
+[2025-10-11 17:25:09,748] 28 root - INFO - data transformation started
+[2025-10-11 17:25:09,748] 52 root - INFO - entered initiaate transforamation method class
+[2025-10-11 17:25:09,748] 55 root - INFO - data transformation started
+[2025-10-11 17:25:09,892] 40 root - INFO - entered get data transformer object method of transformation class
+[2025-10-11 17:25:09,893] 43 root - INFO - initailiose with  parameter
+[2025-10-11 17:25:09,937] 43 root - INFO - Entered the save_object method of main_utils class
+[2025-10-11 17:25:09,964] 47 root - INFO - Exited the save_object method of main_utils class
+[2025-10-11 17:25:09,964] 43 root - INFO - Entered the save_object method of main_utils class
+[2025-10-11 17:25:09,968] 47 root - INFO - Exited the save_object method of main_utils class
+[2025-10-11 17:25:09,970] 32 root - INFO - dat transmission srtarted
+[2025-10-11 17:29:13,750] 43 root - INFO - Entered the save_object method of main_utils class
+[2025-10-11 17:29:13,799] 47 root - INFO - Exited the save_object method of main_utils class
+[2025-10-11 17:29:13,799] 43 root - INFO - Entered the save_object method of main_utils class
+[2025-10-11 17:29:13,841] 47 root - INFO - Exited the save_object method of main_utils class
+[2025-10-11 17:29:13,841] 111 root - INFO - model trainer artiactModelTrainerArtifact(trained_model_file_path='Artifacts\\10_11_2025_17_25_02\\model_trainer\\trained_model\\model.pkl', train_metric_artifact=ClassificationMetricArtifact(f1_Score=0.9910750507099392, precision_score=0.9884685413716366, recall_score=0.9936953426886312), test_metric_artifact=ClassificationMetricArtifact(f1_Score=0.9910750507099392, precision_score=0.9884685413716366, recall_score=0.9936953426886312))
+[2025-10-11 17:29:13,845] 36 root - INFO - model training artifact created

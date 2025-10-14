@@ -1,0 +1,10 @@
+artifact_location: file:///D:/alenpro/NetworkSecurity/mlruns/0/models/m-ed2f22b630274079ba6c21fbba97d16a/artifacts
+creation_timestamp: 1760409447885
+experiment_id: '0'
+last_updated_timestamp: 1760409453816
+model_id: m-ed2f22b630274079ba6c21fbba97d16a
+model_type: null
+name: model
+source_run_id: f85a7a018be14e59a0be81db92e938f8
+status: 2
+status_message: null

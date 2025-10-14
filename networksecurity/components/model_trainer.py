@@ -102,9 +102,14 @@ class ModelTrainer:
         os.makedirs(model_dir_path,exist_ok=True)
         Network_Model=NetworkModel(preprocessor=preprocessor,model=best_model)
         save_object(self.model_trainer_config.trained_model_file_path,obj=Network_Model)
+
+        save_object("final_models/model.pkl",best_model)
+
+
         model_trainer_artifact=ModelTrainerArtifact(trained_model_file_path=self.model_trainer_config.trained_model_file_path,
                              train_metric_artifact=classification_train_metric,test_metric_artifact=classification_test_metric)
         logging.info(f"model trainer artiact{model_trainer_artifact}")
+
 
     def initiate_model_trainer(self)->ModelTrainerArtifact:
         try:

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/alenpro/NetworkSecurity/mlruns/0/f7e1456392b444dc987628869e961816/artifacts
+end_time: 1760405752376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7e1456392b444dc987628869e961816
+run_name: intelligent-calf-405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760405742475
+status: 3
+tags: []
+user_id: ADMIN

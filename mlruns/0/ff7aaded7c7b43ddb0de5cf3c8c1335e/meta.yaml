@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/alenpro/NetworkSecurity/mlruns/0/ff7aaded7c7b43ddb0de5cf3c8c1335e/artifacts
+end_time: 1760183953738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff7aaded7c7b43ddb0de5cf3c8c1335e
+run_name: learned-shrimp-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760183949597
+status: 3
+tags: []
+user_id: ADMIN
